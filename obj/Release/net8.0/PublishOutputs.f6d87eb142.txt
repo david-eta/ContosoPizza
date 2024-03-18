@@ -1,0 +1,11 @@
+C:\Users\David Eta\Desktop\Academics\24Spring\CSCE590\Project Two\module-5\ContosoPizza\obj\Release\net8.0\PubTmp\Out\ContosoPizza.exe
+C:\Users\David Eta\Desktop\Academics\24Spring\CSCE590\Project Two\module-5\ContosoPizza\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\David Eta\Desktop\Academics\24Spring\CSCE590\Project Two\module-5\ContosoPizza\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\David Eta\Desktop\Academics\24Spring\CSCE590\Project Two\module-5\ContosoPizza\obj\Release\net8.0\PubTmp\Out\ContosoPizza.dll
+C:\Users\David Eta\Desktop\Academics\24Spring\CSCE590\Project Two\module-5\ContosoPizza\obj\Release\net8.0\PubTmp\Out\ContosoPizza.deps.json
+C:\Users\David Eta\Desktop\Academics\24Spring\CSCE590\Project Two\module-5\ContosoPizza\obj\Release\net8.0\PubTmp\Out\ContosoPizza.runtimeconfig.json
+C:\Users\David Eta\Desktop\Academics\24Spring\CSCE590\Project Two\module-5\ContosoPizza\obj\Release\net8.0\PubTmp\Out\ContosoPizza.pdb
+C:\Users\David Eta\Desktop\Academics\24Spring\CSCE590\Project Two\module-5\ContosoPizza\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\David Eta\Desktop\Academics\24Spring\CSCE590\Project Two\module-5\ContosoPizza\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\David Eta\Desktop\Academics\24Spring\CSCE590\Project Two\module-5\ContosoPizza\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\David Eta\Desktop\Academics\24Spring\CSCE590\Project Two\module-5\ContosoPizza\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
